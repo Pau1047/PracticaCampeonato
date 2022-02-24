@@ -6,7 +6,11 @@ public class Championship {
     private LocalDate endDate;
     private Prove prove;
 
+    public boolean enterAthlete (Athlete athlete1){
+     //   if ()
 
+        return false;
+    }
 
 
 
